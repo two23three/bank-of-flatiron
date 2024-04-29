@@ -39,6 +39,10 @@
   background-color: bisque;
   border-radius: 50px;
 }
+#header{
+  text-align: center;
+  background-color: aqua;
+}
 
 @keyframes App-logo-spin {
   from {

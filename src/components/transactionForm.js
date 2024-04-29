@@ -28,7 +28,7 @@ function TransactionForm({onAddTransaction}) {
     <form onSubmit={handleSubmit} id="form">
      <label>
              Date:
-             <input type="date" value={Date} onChange={(e) => setDate(e.target.value)} />
+             <input type="date" value={date} onChange={(e) => setDate(e.target.value)} />
      </label>
       
       <label>
