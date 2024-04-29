@@ -1,7 +1,7 @@
-##Bank of flatiron 
+# Bank of flatiron 
 This is an app that allows one to see transactions and add new transactions 
 
-##technologies used
+## technologies used
 props and components in react 
-##installation
+## installation
 git clone this repository in your terminal then run Npm start
